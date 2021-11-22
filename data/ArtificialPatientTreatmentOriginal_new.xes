@@ -36,6 +36,17 @@
 			<string key="org:resource" value=" Dr. Ben" />
 			<date key="time:timestamp" value="2017-01-09T08:29:28" />
 		</event>
+		<event>
+			<string key="concept:name" value=" Blood sugar test" />
+			<string key="org:resource" value=" Dr. Anna" />
+			<date key="time:timestamp" value="2017-01-09T09:29:28" />
+		</event>
+
+<event>
+			<string key="concept:name" value="Decition for hear surhery" />
+			<string key="org:resource" value=" Dr. Anna" />
+			<date key="time:timestamp" value="2017-01-09T11:29:28" />
+		</event>
 	</trace>
 	<trace>
 		<string key="concept:name" value="patient 1" />
@@ -73,6 +84,17 @@
 			<string key="concept:name" value=" Final consult" />
 			<string key="org:resource" value=" Dr. Anna" />
 			<date key="time:timestamp" value="2017-01-06T16:49:21" />
+		</event>
+		<event>
+			<string key="concept:name" value=" Blood sugar test" />
+			<string key="org:resource" value=" Dr. Anna" />
+			<date key="time:timestamp" value="2017-01-09T09:29:28" />
+		</event>
+
+<event>
+			<string key="concept:name" value="Decition for hear surhery" />
+			<string key="org:resource" value=" Dr. Anna" />
+			<date key="time:timestamp" value="2017-01-09T11:29:28" />
 		</event>
 	</trace>
 	<trace>
@@ -112,6 +134,17 @@
 			<string key="org:resource" value=" Dr. Ben" />
 			<date key="time:timestamp" value="2017-01-17T11:54:48" />
 		</event>
+		<event>
+			<string key="concept:name" value=" Blood sugar test" />
+			<string key="org:resource" value=" Dr. Anna" />
+			<date key="time:timestamp" value="2017-01-09T09:29:28" />
+		</event>
+
+<event>
+			<string key="concept:name" value="Decition for hear surhery" />
+			<string key="org:resource" value=" Dr. Anna" />
+			<date key="time:timestamp" value="2017-01-09T11:29:28" />
+		</event>
 	</trace>
 	<trace>
 		<string key="concept:name" value="patient 3" />
@@ -149,6 +182,17 @@
 			<string key="concept:name" value=" Final consult" />
 			<string key="org:resource" value=" Dr. Ben" />
 			<date key="time:timestamp" value="2017-01-17T13:17:06" />
+		</event>
+		<event>
+			<string key="concept:name" value=" Blood sugar test" />
+			<string key="org:resource" value=" Dr. Anna" />
+			<date key="time:timestamp" value="2017-01-09T09:29:28" />
+		</event>
+
+<event>
+			<string key="concept:name" value="Decition for hear surhery" />
+			<string key="org:resource" value=" Dr. Anna" />
+			<date key="time:timestamp" value="2017-01-09T11:29:28" />
 		</event>
 	</trace>
 	<trace>
@@ -188,6 +232,17 @@
 			<string key="org:resource" value=" Dr. Ben" />
 			<date key="time:timestamp" value="2017-01-23T08:58:31" />
 		</event>
+		<event>
+			<string key="concept:name" value=" Blood sugar test" />
+			<string key="org:resource" value=" Dr. Anna" />
+			<date key="time:timestamp" value="2017-01-09T09:29:28" />
+		</event>
+
+<event>
+			<string key="concept:name" value="Decition for hear surhery" />
+			<string key="org:resource" value=" Dr. Anna" />
+			<date key="time:timestamp" value="2017-01-09T11:29:28" />
+		</event>
 	</trace>
 	<trace>
 		<string key="concept:name" value="patient 5" />
@@ -225,6 +280,17 @@
 			<string key="concept:name" value=" Final consult" />
 			<string key="org:resource" value=" Dr. Ben" />
 			<date key="time:timestamp" value="2017-01-20T12:53:16" />
+		</event>
+		<event>
+			<string key="concept:name" value=" Blood sugar test" />
+			<string key="org:resource" value=" Dr. Anna" />
+			<date key="time:timestamp" value="2017-01-09T09:29:28" />
+		</event>
+
+<event>
+			<string key="concept:name" value="Decition for hear surhery" />
+			<string key="org:resource" value=" Dr. Anna" />
+			<date key="time:timestamp" value="2017-01-09T11:29:28" />
 		</event>
 	</trace>
 	<trace>
@@ -264,6 +330,17 @@
 			<string key="org:resource" value=" Dr. Anna" />
 			<date key="time:timestamp" value="2017-01-27T12:02:52" />
 		</event>
+		<event>
+			<string key="concept:name" value=" Blood sugar test" />
+			<string key="org:resource" value=" Dr. Anna" />
+			<date key="time:timestamp" value="2017-01-09T09:29:28" />
+		</event>
+
+<event>
+			<string key="concept:name" value="Decition for hear surhery" />
+			<string key="org:resource" value=" Dr. Anna" />
+			<date key="time:timestamp" value="2017-01-09T11:29:28" />
+		</event>
 	</trace>
 	<trace>
 		<string key="concept:name" value="patient 7" />
@@ -301,6 +378,17 @@
 			<string key="concept:name" value=" Final consult" />
 			<string key="org:resource" value=" Dr. Anna" />
 			<date key="time:timestamp" value="2017-01-20T14:11:01" />
+		</event>
+		<event>
+			<string key="concept:name" value=" Blood sugar test" />
+			<string key="org:resource" value=" Dr. Anna" />
+			<date key="time:timestamp" value="2017-01-09T09:29:28" />
+		</event>
+
+<event>
+			<string key="concept:name" value="Decition for hear surhery" />
+			<string key="org:resource" value=" Dr. Anna" />
+			<date key="time:timestamp" value="2017-01-09T11:29:28" />
 		</event>
 	</trace>
 	<trace>
@@ -340,6 +428,17 @@
 			<string key="org:resource" value=" Dr. Ben" />
 			<date key="time:timestamp" value="2017-01-23T09:07:36" />
 		</event>
+		<event>
+			<string key="concept:name" value=" Blood sugar test" />
+			<string key="org:resource" value=" Dr. Anna" />
+			<date key="time:timestamp" value="2017-01-09T09:29:28" />
+		</event>
+
+<event>
+			<string key="concept:name" value="Decition for hear surhery" />
+			<string key="org:resource" value=" Dr. Anna" />
+			<date key="time:timestamp" value="2017-01-09T11:29:28" />
+		</event>
 	</trace>
 	<trace>
 		<string key="concept:name" value="patient 9" />
@@ -372,6 +471,17 @@
 			<string key="concept:name" value=" Final consult" />
 			<string key="org:resource" value=" Dr. Ben" />
 			<date key="time:timestamp" value="2017-01-24T10:52:07" />
+		</event>
+		<event>
+			<string key="concept:name" value=" Blood sugar test" />
+			<string key="org:resource" value=" Dr. Anna" />
+			<date key="time:timestamp" value="2017-01-09T09:29:28" />
+		</event>
+
+<event>
+			<string key="concept:name" value="Decition for hear surhery" />
+			<string key="org:resource" value=" Dr. Anna" />
+			<date key="time:timestamp" value="2017-01-09T11:29:28" />
 		</event>
 	</trace>
 	<trace>
@@ -411,6 +521,17 @@
 			<string key="org:resource" value=" Dr. Ben" />
 			<date key="time:timestamp" value="2017-01-30T11:19:19" />
 		</event>
+		<event>
+			<string key="concept:name" value=" Blood sugar test" />
+			<string key="org:resource" value=" Dr. Anna" />
+			<date key="time:timestamp" value="2017-01-09T09:29:28" />
+		</event>
+
+<event>
+			<string key="concept:name" value="Decition for hear surhery" />
+			<string key="org:resource" value=" Dr. Anna" />
+			<date key="time:timestamp" value="2017-01-09T11:29:28" />
+		</event>
 	</trace>
 	<trace>
 		<string key="concept:name" value="patient 11" />
@@ -448,6 +569,17 @@
 			<string key="concept:name" value=" Final consult" />
 			<string key="org:resource" value=" Dr. Anna" />
 			<date key="time:timestamp" value="2017-02-02T10:13:13" />
+		</event>
+		<event>
+			<string key="concept:name" value=" Blood sugar test" />
+			<string key="org:resource" value=" Dr. Anna" />
+			<date key="time:timestamp" value="2017-01-09T09:29:28" />
+		</event>
+
+<event>
+			<string key="concept:name" value="Decition for hear surhery" />
+			<string key="org:resource" value=" Dr. Anna" />
+			<date key="time:timestamp" value="2017-01-09T11:29:28" />
 		</event>
 	</trace>
 	<trace>
@@ -487,6 +619,17 @@
 			<string key="org:resource" value=" Dr. Ben" />
 			<date key="time:timestamp" value="2017-01-27T11:18:57" />
 		</event>
+		<event>
+			<string key="concept:name" value=" Blood sugar test" />
+			<string key="org:resource" value=" Dr. Anna" />
+			<date key="time:timestamp" value="2017-01-09T09:29:28" />
+		</event>
+
+<event>
+			<string key="concept:name" value="Decition for hear surhery" />
+			<string key="org:resource" value=" Dr. Anna" />
+			<date key="time:timestamp" value="2017-01-09T11:29:28" />
+		</event>
 	</trace>
 	<trace>
 		<string key="concept:name" value="patient 13" />
@@ -524,6 +667,17 @@
 			<string key="concept:name" value=" Final consult" />
 			<string key="org:resource" value=" Dr. Ben" />
 			<date key="time:timestamp" value="2017-01-31T15:49:44" />
+		</event>
+		<event>
+			<string key="concept:name" value=" Blood sugar test" />
+			<string key="org:resource" value=" Dr. Anna" />
+			<date key="time:timestamp" value="2017-01-09T09:29:28" />
+		</event>
+
+<event>
+			<string key="concept:name" value="Decition for hear surhery" />
+			<string key="org:resource" value=" Dr. Anna" />
+			<date key="time:timestamp" value="2017-01-09T11:29:28" />
 		</event>
 	</trace>
 	<trace>
@@ -563,6 +717,17 @@
 			<string key="org:resource" value=" Dr. Anna" />
 			<date key="time:timestamp" value="2017-02-02T10:52:11" />
 		</event>
+		<event>
+			<string key="concept:name" value=" Blood sugar test" />
+			<string key="org:resource" value=" Dr. Anna" />
+			<date key="time:timestamp" value="2017-01-09T09:29:28" />
+		</event>
+
+<event>
+			<string key="concept:name" value="Decition for hear surhery" />
+			<string key="org:resource" value=" Dr. Anna" />
+			<date key="time:timestamp" value="2017-01-09T11:29:28" />
+		</event>
 	</trace>
 	<trace>
 		<string key="concept:name" value="patient 15" />
@@ -595,6 +760,17 @@
 			<string key="concept:name" value=" Final consult" />
 			<string key="org:resource" value=" Dr. Anna" />
 			<date key="time:timestamp" value="2017-02-03T09:18:04" />
+		</event>
+		<event>
+			<string key="concept:name" value=" Blood sugar test" />
+			<string key="org:resource" value=" Dr. Anna" />
+			<date key="time:timestamp" value="2017-01-09T09:29:28" />
+		</event>
+
+<event>
+			<string key="concept:name" value="Decition for hear surhery" />
+			<string key="org:resource" value=" Dr. Anna" />
+			<date key="time:timestamp" value="2017-01-09T11:29:28" />
 		</event>
 	</trace>
 	<trace>
@@ -634,6 +810,17 @@
 			<string key="org:resource" value=" Dr. Ben" />
 			<date key="time:timestamp" value="2017-02-07T08:55:43" />
 		</event>
+		<event>
+			<string key="concept:name" value=" Blood sugar test" />
+			<string key="org:resource" value=" Dr. Anna" />
+			<date key="time:timestamp" value="2017-01-09T09:29:28" />
+		</event>
+
+<event>
+			<string key="concept:name" value="Decition for hear surhery" />
+			<string key="org:resource" value=" Dr. Anna" />
+			<date key="time:timestamp" value="2017-01-09T11:29:28" />
+		</event>
 	</trace>
 	<trace>
 		<string key="concept:name" value="patient 17" />
@@ -671,6 +858,17 @@
 			<string key="concept:name" value=" Final consult" />
 			<string key="org:resource" value=" Dr. Ben" />
 			<date key="time:timestamp" value="2017-02-09T12:46:25" />
+		</event>
+		<event>
+			<string key="concept:name" value=" Blood sugar test" />
+			<string key="org:resource" value=" Dr. Anna" />
+			<date key="time:timestamp" value="2017-01-09T09:29:28" />
+		</event>
+
+<event>
+			<string key="concept:name" value="Decition for hear surhery" />
+			<string key="org:resource" value=" Dr. Anna" />
+			<date key="time:timestamp" value="2017-01-09T11:29:28" />
 		</event>
 	</trace>
 	<trace>
@@ -710,6 +908,17 @@
 			<string key="org:resource" value=" Dr. Ben" />
 			<date key="time:timestamp" value="2017-02-07T10:13:20" />
 		</event>
+		<event>
+			<string key="concept:name" value=" Blood sugar test" />
+			<string key="org:resource" value=" Dr. Anna" />
+			<date key="time:timestamp" value="2017-01-09T09:29:28" />
+		</event>
+
+<event>
+			<string key="concept:name" value="Decition for hear surhery" />
+			<string key="org:resource" value=" Dr. Anna" />
+			<date key="time:timestamp" value="2017-01-09T11:29:28" />
+		</event>
 	</trace>
 	<trace>
 		<string key="concept:name" value="patient 19" />
@@ -747,6 +956,17 @@
 			<string key="concept:name" value=" Final consult" />
 			<string key="org:resource" value=" Dr. Ben" />
 			<date key="time:timestamp" value="2017-02-10T09:34:06" />
+		</event>
+		<event>
+			<string key="concept:name" value=" Blood sugar test" />
+			<string key="org:resource" value=" Dr. Anna" />
+			<date key="time:timestamp" value="2017-01-09T09:29:28" />
+		</event>
+
+<event>
+			<string key="concept:name" value="Decition for hear surhery" />
+			<string key="org:resource" value=" Dr. Anna" />
+			<date key="time:timestamp" value="2017-01-09T11:29:28" />
 		</event>
 	</trace>
 	<trace>
@@ -786,6 +1006,17 @@
 			<string key="org:resource" value=" Dr. Anna" />
 			<date key="time:timestamp" value="2017-02-09T15:48:55" />
 		</event>
+		<event>
+			<string key="concept:name" value=" Blood sugar test" />
+			<string key="org:resource" value=" Dr. Anna" />
+			<date key="time:timestamp" value="2017-01-09T09:29:28" />
+		</event>
+
+<event>
+			<string key="concept:name" value="Decition for hear surhery" />
+			<string key="org:resource" value=" Dr. Anna" />
+			<date key="time:timestamp" value="2017-01-09T11:29:28" />
+		</event>
 	</trace>
 	<trace>
 		<string key="concept:name" value="patient 21" />
@@ -823,6 +1054,17 @@
 			<string key="concept:name" value=" Final consult" />
 			<string key="org:resource" value=" Dr. Anna" />
 			<date key="time:timestamp" value="2017-02-14T09:35:22" />
+		</event>
+		<event>
+			<string key="concept:name" value=" Blood sugar test" />
+			<string key="org:resource" value=" Dr. Anna" />
+			<date key="time:timestamp" value="2017-01-09T09:29:28" />
+		</event>
+
+<event>
+			<string key="concept:name" value="Decition for hear surhery" />
+			<string key="org:resource" value=" Dr. Anna" />
+			<date key="time:timestamp" value="2017-01-09T11:29:28" />
 		</event>
 	</trace>
 	<trace>
@@ -862,6 +1104,17 @@
 			<string key="org:resource" value=" Dr. Ben" />
 			<date key="time:timestamp" value="2017-02-16T13:25:47" />
 		</event>
+		<event>
+			<string key="concept:name" value=" Blood sugar test" />
+			<string key="org:resource" value=" Dr. Anna" />
+			<date key="time:timestamp" value="2017-01-09T09:29:28" />
+		</event>
+
+<event>
+			<string key="concept:name" value="Decition for hear surhery" />
+			<string key="org:resource" value=" Dr. Anna" />
+			<date key="time:timestamp" value="2017-01-09T11:29:28" />
+		</event>
 	</trace>
 	<trace>
 		<string key="concept:name" value="patient 23" />
@@ -899,6 +1152,17 @@
 			<string key="concept:name" value=" Final consult" />
 			<string key="org:resource" value=" Dr. Anna" />
 			<date key="time:timestamp" value="2017-02-23T11:30:26" />
+		</event>
+		<event>
+			<string key="concept:name" value=" Blood sugar test" />
+			<string key="org:resource" value=" Dr. Anna" />
+			<date key="time:timestamp" value="2017-01-09T09:29:28" />
+		</event>
+
+<event>
+			<string key="concept:name" value="Decition for hear surhery" />
+			<string key="org:resource" value=" Dr. Anna" />
+			<date key="time:timestamp" value="2017-01-09T11:29:28" />
 		</event>
 	</trace>
 	<trace>
@@ -938,6 +1202,17 @@
 			<string key="org:resource" value=" Dr. Anna" />
 			<date key="time:timestamp" value="2017-02-14T15:44:39" />
 		</event>
+		<event>
+			<string key="concept:name" value=" Blood sugar test" />
+			<string key="org:resource" value=" Dr. Anna" />
+			<date key="time:timestamp" value="2017-01-09T09:29:28" />
+		</event>
+
+<event>
+			<string key="concept:name" value="Decition for hear surhery" />
+			<string key="org:resource" value=" Dr. Anna" />
+			<date key="time:timestamp" value="2017-01-09T11:29:28" />
+		</event>
 	</trace>
 	<trace>
 		<string key="concept:name" value="patient 25" />
@@ -970,6 +1245,17 @@
 			<string key="concept:name" value=" Final consult" />
 			<string key="org:resource" value=" Dr. Ben" />
 			<date key="time:timestamp" value="2017-02-13T10:54:46" />
+		</event>
+		<event>
+			<string key="concept:name" value=" Blood sugar test" />
+			<string key="org:resource" value=" Dr. Anna" />
+			<date key="time:timestamp" value="2017-01-09T09:29:28" />
+		</event>
+
+<event>
+			<string key="concept:name" value="Decition for hear surhery" />
+			<string key="org:resource" value=" Dr. Anna" />
+			<date key="time:timestamp" value="2017-01-09T11:29:28" />
 		</event>
 	</trace>
 	<trace>
@@ -1009,6 +1295,17 @@
 			<string key="org:resource" value=" Dr. Ben" />
 			<date key="time:timestamp" value="2017-02-17T15:15:51" />
 		</event>
+		<event>
+			<string key="concept:name" value=" Blood sugar test" />
+			<string key="org:resource" value=" Dr. Anna" />
+			<date key="time:timestamp" value="2017-01-09T09:29:28" />
+		</event>
+
+<event>
+			<string key="concept:name" value="Decition for hear surhery" />
+			<string key="org:resource" value=" Dr. Anna" />
+			<date key="time:timestamp" value="2017-01-09T11:29:28" />
+		</event>
 	</trace>
 	<trace>
 		<string key="concept:name" value="patient 27" />
@@ -1041,6 +1338,17 @@
 			<string key="concept:name" value=" Final consult" />
 			<string key="org:resource" value=" Dr. Anna" />
 			<date key="time:timestamp" value="2017-02-17T14:45:21" />
+		</event>
+		<event>
+			<string key="concept:name" value=" Blood sugar test" />
+			<string key="org:resource" value=" Dr. Anna" />
+			<date key="time:timestamp" value="2017-01-09T09:29:28" />
+		</event>
+
+<event>
+			<string key="concept:name" value="Decition for hear surhery" />
+			<string key="org:resource" value=" Dr. Anna" />
+			<date key="time:timestamp" value="2017-01-09T11:29:28" />
 		</event>
 	</trace>
 	<trace>
@@ -1080,6 +1388,17 @@
 			<string key="org:resource" value=" Dr. Ben" />
 			<date key="time:timestamp" value="2017-02-22T13:45:13" />
 		</event>
+		<event>
+			<string key="concept:name" value=" Blood sugar test" />
+			<string key="org:resource" value=" Dr. Anna" />
+			<date key="time:timestamp" value="2017-01-09T09:29:28" />
+		</event>
+
+<event>
+			<string key="concept:name" value="Decition for hear surhery" />
+			<string key="org:resource" value=" Dr. Anna" />
+			<date key="time:timestamp" value="2017-01-09T11:29:28" />
+		</event>
 	</trace>
 	<trace>
 		<string key="concept:name" value="patient 29" />
@@ -1112,6 +1431,17 @@
 			<string key="concept:name" value=" Final consult" />
 			<string key="org:resource" value=" Dr. Anna" />
 			<date key="time:timestamp" value="2017-02-22T11:42:21" />
+		</event>
+		<event>
+			<string key="concept:name" value=" Blood sugar test" />
+			<string key="org:resource" value=" Dr. Anna" />
+			<date key="time:timestamp" value="2017-01-09T09:29:28" />
+		</event>
+
+<event>
+			<string key="concept:name" value="Decition for hear surhery" />
+			<string key="org:resource" value=" Dr. Anna" />
+			<date key="time:timestamp" value="2017-01-09T11:29:28" />
 		</event>
 	</trace>
 	<trace>
@@ -1151,6 +1481,17 @@
 			<string key="org:resource" value=" Dr. Anna" />
 			<date key="time:timestamp" value="2017-02-21T17:00:10" />
 		</event>
+		<event>
+			<string key="concept:name" value=" Blood sugar test" />
+			<string key="org:resource" value=" Dr. Anna" />
+			<date key="time:timestamp" value="2017-01-09T09:29:28" />
+		</event>
+
+<event>
+			<string key="concept:name" value="Decition for hear surhery" />
+			<string key="org:resource" value=" Dr. Anna" />
+			<date key="time:timestamp" value="2017-01-09T11:29:28" />
+		</event>
 	</trace>
 	<trace>
 		<string key="concept:name" value="patient 31" />
@@ -1188,6 +1529,17 @@
 			<string key="concept:name" value=" Final consult" />
 			<string key="org:resource" value=" Dr. Ben" />
 			<date key="time:timestamp" value="2017-02-22T10:30:39" />
+		</event>
+		<event>
+			<string key="concept:name" value=" Blood sugar test" />
+			<string key="org:resource" value=" Dr. Anna" />
+			<date key="time:timestamp" value="2017-01-09T09:29:28" />
+		</event>
+
+<event>
+			<string key="concept:name" value="Decition for hear surhery" />
+			<string key="org:resource" value=" Dr. Anna" />
+			<date key="time:timestamp" value="2017-01-09T11:29:28" />
 		</event>
 	</trace>
 	<trace>
@@ -1227,6 +1579,17 @@
 			<string key="org:resource" value=" Dr. Anna" />
 			<date key="time:timestamp" value="2017-02-23T08:56:17" />
 		</event>
+		<event>
+			<string key="concept:name" value=" Blood sugar test" />
+			<string key="org:resource" value=" Dr. Anna" />
+			<date key="time:timestamp" value="2017-01-09T09:29:28" />
+		</event>
+
+<event>
+			<string key="concept:name" value="Decition for hear surhery" />
+			<string key="org:resource" value=" Dr. Anna" />
+			<date key="time:timestamp" value="2017-01-09T11:29:28" />
+		</event>
 	</trace>
 	<trace>
 		<string key="concept:name" value="patient 33" />
@@ -1264,6 +1627,17 @@
 			<string key="concept:name" value=" Final consult" />
 			<string key="org:resource" value=" Dr. Anna" />
 			<date key="time:timestamp" value="2017-02-27T08:21:38" />
+		</event>
+		<event>
+			<string key="concept:name" value=" Blood sugar test" />
+			<string key="org:resource" value=" Dr. Anna" />
+			<date key="time:timestamp" value="2017-01-09T09:29:28" />
+		</event>
+
+<event>
+			<string key="concept:name" value="Decition for hear surhery" />
+			<string key="org:resource" value=" Dr. Anna" />
+			<date key="time:timestamp" value="2017-01-09T11:29:28" />
 		</event>
 	</trace>
 	<trace>
@@ -1303,6 +1677,17 @@
 			<string key="org:resource" value=" Dr. Anna" />
 			<date key="time:timestamp" value="2017-03-02T13:24:27" />
 		</event>
+		<event>
+			<string key="concept:name" value=" Blood sugar test" />
+			<string key="org:resource" value=" Dr. Anna" />
+			<date key="time:timestamp" value="2017-01-09T09:29:28" />
+		</event>
+
+<event>
+			<string key="concept:name" value="Decition for hear surhery" />
+			<string key="org:resource" value=" Dr. Anna" />
+			<date key="time:timestamp" value="2017-01-09T11:29:28" />
+		</event>
 	</trace>
 	<trace>
 		<string key="concept:name" value="patient 35" />
@@ -1335,6 +1720,17 @@
 			<string key="concept:name" value=" Final consult" />
 			<string key="org:resource" value=" Dr. Ben" />
 			<date key="time:timestamp" value="2017-02-23T14:36:45" />
+		</event>
+		<event>
+			<string key="concept:name" value=" Blood sugar test" />
+			<string key="org:resource" value=" Dr. Anna" />
+			<date key="time:timestamp" value="2017-01-09T09:29:28" />
+		</event>
+
+<event>
+			<string key="concept:name" value="Decition for hear surhery" />
+			<string key="org:resource" value=" Dr. Anna" />
+			<date key="time:timestamp" value="2017-01-09T11:29:28" />
 		</event>
 	</trace>
 	<trace>
@@ -1374,6 +1770,17 @@
 			<string key="org:resource" value=" Dr. Anna" />
 			<date key="time:timestamp" value="2017-03-02T08:18:02" />
 		</event>
+		<event>
+			<string key="concept:name" value=" Blood sugar test" />
+			<string key="org:resource" value=" Dr. Anna" />
+			<date key="time:timestamp" value="2017-01-09T09:29:28" />
+		</event>
+
+<event>
+			<string key="concept:name" value="Decition for hear surhery" />
+			<string key="org:resource" value=" Dr. Anna" />
+			<date key="time:timestamp" value="2017-01-09T11:29:28" />
+		</event>
 	</trace>
 	<trace>
 		<string key="concept:name" value="patient 37" />
@@ -1411,6 +1818,17 @@
 			<string key="concept:name" value=" Final consult" />
 			<string key="org:resource" value=" Dr. Ben" />
 			<date key="time:timestamp" value="2017-03-09T12:22:03" />
+		</event>
+		<event>
+			<string key="concept:name" value=" Blood sugar test" />
+			<string key="org:resource" value=" Dr. Anna" />
+			<date key="time:timestamp" value="2017-01-09T09:29:28" />
+		</event>
+
+<event>
+			<string key="concept:name" value="Decition for hear surhery" />
+			<string key="org:resource" value=" Dr. Anna" />
+			<date key="time:timestamp" value="2017-01-09T11:29:28" />
 		</event>
 	</trace>
 	<trace>
@@ -1450,6 +1868,17 @@
 			<string key="org:resource" value=" Dr. Anna" />
 			<date key="time:timestamp" value="2017-03-07T10:52:38" />
 		</event>
+		<event>
+			<string key="concept:name" value=" Blood sugar test" />
+			<string key="org:resource" value=" Dr. Anna" />
+			<date key="time:timestamp" value="2017-01-09T09:29:28" />
+		</event>
+
+<event>
+			<string key="concept:name" value="Decition for hear surhery" />
+			<string key="org:resource" value=" Dr. Anna" />
+			<date key="time:timestamp" value="2017-01-09T11:29:28" />
+		</event>
 	</trace>
 	<trace>
 		<string key="concept:name" value="patient 39" />
@@ -1487,6 +1916,16 @@
 			<string key="concept:name" value=" Final consult" />
 			<string key="org:resource" value=" Dr. Anna" />
 			<date key="time:timestamp" value="2017-03-02T12:32:44" />
+		</event>
+		<event>
+			<string key="concept:name" value="ECG" />
+			<string key="org:resource" value=" Dr. Anna" />
+			<date key="time:timestamp" value="2017-01-09T09:29:28" />
+		</event>
+<event>
+			<string key="concept:name" value="Decition for hear surhery" />
+			<string key="org:resource" value=" Dr. Anna" />
+			<date key="time:timestamp" value="2017-01-09T11:29:28" />
 		</event>
 	</trace>
 	<trace>
@@ -1526,6 +1965,16 @@
 			<string key="org:resource" value=" Dr. Ben" />
 			<date key="time:timestamp" value="2017-03-03T16:17:10" />
 		</event>
+		<event>
+			<string key="concept:name" value="ECG" />
+			<string key="org:resource" value=" Dr. Anna" />
+			<date key="time:timestamp" value="2017-01-09T09:29:28" />
+		</event>
+<event>
+			<string key="concept:name" value="Decition for hear surhery" />
+			<string key="org:resource" value=" Dr. Anna" />
+			<date key="time:timestamp" value="2017-01-09T11:29:28" />
+		</event>
 	</trace>
 	<trace>
 		<string key="concept:name" value="patient 41" />
@@ -1564,6 +2013,16 @@
 			<string key="org:resource" value=" Dr. Anna" />
 			<date key="time:timestamp" value="2017-03-07T15:45:53" />
 		</event>
+		<event>
+			<string key="concept:name" value="ECG" />
+			<string key="org:resource" value=" Dr. Anna" />
+			<date key="time:timestamp" value="2017-01-09T09:29:28" />
+		</event>
+<event>
+			<string key="concept:name" value="Decition for hear surhery" />
+			<string key="org:resource" value=" Dr. Anna" />
+			<date key="time:timestamp" value="2017-01-09T11:29:28" />
+		</event>
 	</trace>
 	<trace>
 		<string key="concept:name" value="patient 42" />
@@ -1596,6 +2055,16 @@
 			<string key="concept:name" value=" Final consult" />
 			<string key="org:resource" value=" Dr. Ben" />
 			<date key="time:timestamp" value="2017-03-09T15:57:09" />
+		</event>
+		<event>
+			<string key="concept:name" value="ECG" />
+			<string key="org:resource" value=" Dr. Anna" />
+			<date key="time:timestamp" value="2017-01-09T09:29:28" />
+		</event>
+<event>
+			<string key="concept:name" value="Decition for hear surhery" />
+			<string key="org:resource" value=" Dr. Anna" />
+			<date key="time:timestamp" value="2017-01-09T11:29:28" />
 		</event>
 	</trace>
 	<trace>
@@ -1635,6 +2104,16 @@
 			<string key="org:resource" value=" Dr. Anna" />
 			<date key="time:timestamp" value="2017-03-09T15:01:51" />
 		</event>
+		<event>
+			<string key="concept:name" value="ECG" />
+			<string key="org:resource" value=" Dr. Anna" />
+			<date key="time:timestamp" value="2017-01-09T09:29:28" />
+		</event>
+<event>
+			<string key="concept:name" value="Decition for hear surhery" />
+			<string key="org:resource" value=" Dr. Anna" />
+			<date key="time:timestamp" value="2017-01-09T11:29:28" />
+		</event>
 	</trace>
 	<trace>
 		<string key="concept:name" value="patient 44" />
@@ -1672,6 +2151,16 @@
 			<string key="concept:name" value=" Final consult" />
 			<string key="org:resource" value=" Dr. Anna" />
 			<date key="time:timestamp" value="2017-03-15T10:55:33" />
+		</event>
+		<event>
+			<string key="concept:name" value="ECG" />
+			<string key="org:resource" value=" Dr. Anna" />
+			<date key="time:timestamp" value="2017-01-09T09:29:28" />
+		</event>
+<event>
+			<string key="concept:name" value="Decition for hear surhery" />
+			<string key="org:resource" value=" Dr. Anna" />
+			<date key="time:timestamp" value="2017-01-09T11:29:28" />
 		</event>
 	</trace>
 	<trace>
@@ -1711,6 +2200,16 @@
 			<string key="org:resource" value=" Dr. Anna" />
 			<date key="time:timestamp" value="2017-03-20T12:32:46" />
 		</event>
+		<event>
+			<string key="concept:name" value="ECG" />
+			<string key="org:resource" value=" Dr. Anna" />
+			<date key="time:timestamp" value="2017-01-09T09:29:28" />
+		</event>
+<event>
+			<string key="concept:name" value="Decition for hear surhery" />
+			<string key="org:resource" value=" Dr. Anna" />
+			<date key="time:timestamp" value="2017-01-09T11:29:28" />
+		</event>
 	</trace>
 	<trace>
 		<string key="concept:name" value="patient 46" />
@@ -1748,6 +2247,16 @@
 			<string key="concept:name" value=" Final consult" />
 			<string key="org:resource" value=" Dr. Anna" />
 			<date key="time:timestamp" value="2017-03-20T11:10:16" />
+		</event>
+		<event>
+			<string key="concept:name" value="ECG" />
+			<string key="org:resource" value=" Dr. Anna" />
+			<date key="time:timestamp" value="2017-01-09T09:29:28" />
+		</event>
+<event>
+			<string key="concept:name" value="Decition for hear surhery" />
+			<string key="org:resource" value=" Dr. Anna" />
+			<date key="time:timestamp" value="2017-01-09T11:29:28" />
 		</event>
 	</trace>
 	<trace>
@@ -1787,6 +2296,16 @@
 			<string key="org:resource" value=" Dr. Anna" />
 			<date key="time:timestamp" value="2017-03-27T12:10:48" />
 		</event>
+		<event>
+			<string key="concept:name" value="ECG" />
+			<string key="org:resource" value=" Dr. Anna" />
+			<date key="time:timestamp" value="2017-01-09T09:29:28" />
+		</event>
+<event>
+			<string key="concept:name" value="Decition for hear surhery" />
+			<string key="org:resource" value=" Dr. Anna" />
+			<date key="time:timestamp" value="2017-01-09T11:29:28" />
+		</event>
 	</trace>
 	<trace>
 		<string key="concept:name" value="patient 48" />
@@ -1824,6 +2343,16 @@
 			<string key="concept:name" value=" Final consult" />
 			<string key="org:resource" value=" Dr. Ben" />
 			<date key="time:timestamp" value="2017-03-15T14:51:56" />
+		</event>
+		<event>
+			<string key="concept:name" value="ECG" />
+			<string key="org:resource" value=" Dr. Anna" />
+			<date key="time:timestamp" value="2017-01-09T09:29:28" />
+		</event>
+<event>
+			<string key="concept:name" value="Decition for hear surhery" />
+			<string key="org:resource" value=" Dr. Anna" />
+			<date key="time:timestamp" value="2017-01-09T11:29:28" />
 		</event>
 	</trace>
 	<trace>
@@ -1863,6 +2392,16 @@
 			<string key="org:resource" value=" Dr. Ben" />
 			<date key="time:timestamp" value="2017-03-22T15:43:30" />
 		</event>
+		<event>
+			<string key="concept:name" value="ECG" />
+			<string key="org:resource" value=" Dr. Anna" />
+			<date key="time:timestamp" value="2017-01-09T09:29:28" />
+		</event>
+<event>
+			<string key="concept:name" value="Decition for hear surhery" />
+			<string key="org:resource" value=" Dr. Anna" />
+			<date key="time:timestamp" value="2017-01-09T11:29:28" />
+		</event>
 	</trace>
 	<trace>
 		<string key="concept:name" value="patient 50" />
@@ -1900,6 +2439,16 @@
 			<string key="concept:name" value=" Final consult" />
 			<string key="org:resource" value=" Dr. Anna" />
 			<date key="time:timestamp" value="2017-03-27T09:18:42" />
+		</event>
+		<event>
+			<string key="concept:name" value="ECG" />
+			<string key="org:resource" value=" Dr. Anna" />
+			<date key="time:timestamp" value="2017-01-09T09:29:28" />
+		</event>
+<event>
+			<string key="concept:name" value="Decition for hear surhery" />
+			<string key="org:resource" value=" Dr. Anna" />
+			<date key="time:timestamp" value="2017-01-09T11:29:28" />
 		</event>
 	</trace>
 	<trace>
@@ -1939,6 +2488,16 @@
 			<string key="org:resource" value=" Dr. Anna" />
 			<date key="time:timestamp" value="2017-03-27T11:26:38" />
 		</event>
+		<event>
+			<string key="concept:name" value="ECG" />
+			<string key="org:resource" value=" Dr. Anna" />
+			<date key="time:timestamp" value="2017-01-09T09:29:28" />
+		</event>
+<event>
+			<string key="concept:name" value="Decition for hear surhery" />
+			<string key="org:resource" value=" Dr. Anna" />
+			<date key="time:timestamp" value="2017-01-09T11:29:28" />
+		</event>
 	</trace>
 	<trace>
 		<string key="concept:name" value="patient 52" />
@@ -1971,6 +2530,16 @@
 			<string key="concept:name" value=" Final consult" />
 			<string key="org:resource" value=" Dr. Ben" />
 			<date key="time:timestamp" value="2017-03-23T13:38:57" />
+		</event>
+		<event>
+			<string key="concept:name" value="ECG" />
+			<string key="org:resource" value=" Dr. Anna" />
+			<date key="time:timestamp" value="2017-01-09T09:29:28" />
+		</event>
+<event>
+			<string key="concept:name" value="Decition for hear surhery" />
+			<string key="org:resource" value=" Dr. Anna" />
+			<date key="time:timestamp" value="2017-01-09T11:29:28" />
 		</event>
 	</trace>
 	<trace>
@@ -2010,6 +2579,16 @@
 			<string key="org:resource" value=" Dr. Ben" />
 			<date key="time:timestamp" value="2017-03-29T15:44:35" />
 		</event>
+		<event>
+			<string key="concept:name" value="ECG" />
+			<string key="org:resource" value=" Dr. Anna" />
+			<date key="time:timestamp" value="2017-01-09T09:29:28" />
+		</event>
+<event>
+			<string key="concept:name" value="Decition for hear surhery" />
+			<string key="org:resource" value=" Dr. Anna" />
+			<date key="time:timestamp" value="2017-01-09T11:29:28" />
+		</event>
 	</trace>
 	<trace>
 		<string key="concept:name" value="patient 54" />
@@ -2047,6 +2626,16 @@
 			<string key="concept:name" value=" Final consult" />
 			<string key="org:resource" value=" Dr. Anna" />
 			<date key="time:timestamp" value="2017-03-24T15:11:19" />
+		</event>
+		<event>
+			<string key="concept:name" value="ECG" />
+			<string key="org:resource" value=" Dr. Anna" />
+			<date key="time:timestamp" value="2017-01-09T09:29:28" />
+		</event>
+<event>
+			<string key="concept:name" value="Decition for hear surhery" />
+			<string key="org:resource" value=" Dr. Anna" />
+			<date key="time:timestamp" value="2017-01-09T11:29:28" />
 		</event>
 	</trace>
 	<trace>
@@ -2086,6 +2675,16 @@
 			<string key="org:resource" value=" Dr. Ben" />
 			<date key="time:timestamp" value="2017-03-27T16:44:53" />
 		</event>
+		<event>
+			<string key="concept:name" value="ECG" />
+			<string key="org:resource" value=" Dr. Anna" />
+			<date key="time:timestamp" value="2017-01-09T09:29:28" />
+		</event>
+<event>
+			<string key="concept:name" value="Decition for hear surhery" />
+			<string key="org:resource" value=" Dr. Anna" />
+			<date key="time:timestamp" value="2017-01-09T11:29:28" />
+		</event>
 	</trace>
 	<trace>
 		<string key="concept:name" value="patient 56" />
@@ -2123,6 +2722,16 @@
 			<string key="concept:name" value=" Final consult" />
 			<string key="org:resource" value=" Dr. Anna" />
 			<date key="time:timestamp" value="2017-04-03T10:12:54" />
+		</event>
+		<event>
+			<string key="concept:name" value="ECG" />
+			<string key="org:resource" value=" Dr. Anna" />
+			<date key="time:timestamp" value="2017-01-09T09:29:28" />
+		</event>
+<event>
+			<string key="concept:name" value="Decition for hear surhery" />
+			<string key="org:resource" value=" Dr. Anna" />
+			<date key="time:timestamp" value="2017-01-09T11:29:28" />
 		</event>
 	</trace>
 	<trace>
@@ -2162,6 +2771,16 @@
 			<string key="org:resource" value=" Dr. Ben" />
 			<date key="time:timestamp" value="2017-03-31T15:07:30" />
 		</event>
+		<event>
+			<string key="concept:name" value="ECG" />
+			<string key="org:resource" value=" Dr. Anna" />
+			<date key="time:timestamp" value="2017-01-09T09:29:28" />
+		</event>
+<event>
+			<string key="concept:name" value="Decition for hear surhery" />
+			<string key="org:resource" value=" Dr. Anna" />
+			<date key="time:timestamp" value="2017-01-09T11:29:28" />
+		</event>
 	</trace>
 	<trace>
 		<string key="concept:name" value="patient 58" />
@@ -2199,6 +2818,16 @@
 			<string key="concept:name" value=" Final consult" />
 			<string key="org:resource" value=" Dr. Ben" />
 			<date key="time:timestamp" value="2017-04-11T09:43:09" />
+		</event>
+		<event>
+			<string key="concept:name" value="ECG" />
+			<string key="org:resource" value=" Dr. Anna" />
+			<date key="time:timestamp" value="2017-01-09T09:29:28" />
+		</event>
+<event>
+			<string key="concept:name" value="Decition for hear surhery" />
+			<string key="org:resource" value=" Dr. Anna" />
+			<date key="time:timestamp" value="2017-01-09T11:29:28" />
 		</event>
 	</trace>
 	<trace>
@@ -2238,6 +2867,16 @@
 			<string key="org:resource" value=" Dr. Anna" />
 			<date key="time:timestamp" value="2017-04-05T10:36:17" />
 		</event>
+		<event>
+			<string key="concept:name" value="ECG" />
+			<string key="org:resource" value=" Dr. Anna" />
+			<date key="time:timestamp" value="2017-01-09T09:29:28" />
+		</event>
+<event>
+			<string key="concept:name" value="Decition for hear surhery" />
+			<string key="org:resource" value=" Dr. Anna" />
+			<date key="time:timestamp" value="2017-01-09T11:29:28" />
+		</event>
 	</trace>
 	<trace>
 		<string key="concept:name" value="patient 60" />
@@ -2275,6 +2914,16 @@
 			<string key="concept:name" value=" Final consult" />
 			<string key="org:resource" value=" Dr. Ben" />
 			<date key="time:timestamp" value="2017-04-05T13:32:12" />
+		</event>
+		<event>
+			<string key="concept:name" value="ECG" />
+			<string key="org:resource" value=" Dr. Anna" />
+			<date key="time:timestamp" value="2017-01-09T09:29:28" />
+		</event>
+<event>
+			<string key="concept:name" value="Decition for hear surhery" />
+			<string key="org:resource" value=" Dr. Anna" />
+			<date key="time:timestamp" value="2017-01-09T11:29:28" />
 		</event>
 	</trace>
 	<trace>
@@ -2314,6 +2963,16 @@
 			<string key="org:resource" value=" Dr. Ben" />
 			<date key="time:timestamp" value="2017-04-05T16:17:27" />
 		</event>
+		<event>
+			<string key="concept:name" value="ECG" />
+			<string key="org:resource" value=" Dr. Anna" />
+			<date key="time:timestamp" value="2017-01-09T09:29:28" />
+		</event>
+<event>
+			<string key="concept:name" value="Decition for hear surhery" />
+			<string key="org:resource" value=" Dr. Anna" />
+			<date key="time:timestamp" value="2017-01-09T11:29:28" />
+		</event>
 	</trace>
 	<trace>
 		<string key="concept:name" value="patient 62" />
@@ -2351,6 +3010,16 @@
 			<string key="concept:name" value=" Final consult" />
 			<string key="org:resource" value=" Dr. Anna" />
 			<date key="time:timestamp" value="2017-04-12T15:21:36" />
+		</event>
+		<event>
+			<string key="concept:name" value="ECG" />
+			<string key="org:resource" value=" Dr. Anna" />
+			<date key="time:timestamp" value="2017-01-09T09:29:28" />
+		</event>
+<event>
+			<string key="concept:name" value="Decition for hear surhery" />
+			<string key="org:resource" value=" Dr. Anna" />
+			<date key="time:timestamp" value="2017-01-09T11:29:28" />
 		</event>
 	</trace>
 	<trace>
@@ -2390,6 +3059,16 @@
 			<string key="org:resource" value=" Dr. Ben" />
 			<date key="time:timestamp" value="2017-04-11T16:13:50" />
 		</event>
+		<event>
+			<string key="concept:name" value="ECG" />
+			<string key="org:resource" value=" Dr. Anna" />
+			<date key="time:timestamp" value="2017-01-09T09:29:28" />
+		</event>
+<event>
+			<string key="concept:name" value="Decition for hear surhery" />
+			<string key="org:resource" value=" Dr. Anna" />
+			<date key="time:timestamp" value="2017-01-09T11:29:28" />
+		</event>
 	</trace>
 	<trace>
 		<string key="concept:name" value="patient 64" />
@@ -2427,6 +3106,16 @@
 			<string key="concept:name" value=" Final consult" />
 			<string key="org:resource" value=" Dr. Anna" />
 			<date key="time:timestamp" value="2017-04-20T10:09:25" />
+		</event>
+		<event>
+			<string key="concept:name" value="ECG" />
+			<string key="org:resource" value=" Dr. Anna" />
+			<date key="time:timestamp" value="2017-01-09T09:29:28" />
+		</event>
+<event>
+			<string key="concept:name" value="Decition for hear surhery" />
+			<string key="org:resource" value=" Dr. Anna" />
+			<date key="time:timestamp" value="2017-01-09T11:29:28" />
 		</event>
 	</trace>
 	<trace>
@@ -2466,6 +3155,16 @@
 			<string key="org:resource" value=" Dr. Ben" />
 			<date key="time:timestamp" value="2017-04-11T08:57:53" />
 		</event>
+		<event>
+			<string key="concept:name" value="ECG" />
+			<string key="org:resource" value=" Dr. Anna" />
+			<date key="time:timestamp" value="2017-01-09T09:29:28" />
+		</event>
+<event>
+			<string key="concept:name" value="Decition for hear surhery" />
+			<string key="org:resource" value=" Dr. Anna" />
+			<date key="time:timestamp" value="2017-01-09T11:29:28" />
+		</event>
 	</trace>
 	<trace>
 		<string key="concept:name" value="patient 66" />
@@ -2503,6 +3202,16 @@
 			<string key="concept:name" value=" Final consult" />
 			<string key="org:resource" value=" Dr. Anna" />
 			<date key="time:timestamp" value="2017-04-14T14:03:32" />
+		</event>
+		<event>
+			<string key="concept:name" value="ECG" />
+			<string key="org:resource" value=" Dr. Anna" />
+			<date key="time:timestamp" value="2017-01-09T09:29:28" />
+		</event>
+<event>
+			<string key="concept:name" value="Decition for hear surhery" />
+			<string key="org:resource" value=" Dr. Anna" />
+			<date key="time:timestamp" value="2017-01-09T11:29:28" />
 		</event>
 	</trace>
 	<trace>
@@ -2542,6 +3251,16 @@
 			<string key="org:resource" value=" Dr. Ben" />
 			<date key="time:timestamp" value="2017-04-17T13:00:11" />
 		</event>
+		<event>
+			<string key="concept:name" value="ECG" />
+			<string key="org:resource" value=" Dr. Anna" />
+			<date key="time:timestamp" value="2017-01-09T09:29:28" />
+		</event>
+<event>
+			<string key="concept:name" value="Decition for hear surhery" />
+			<string key="org:resource" value=" Dr. Anna" />
+			<date key="time:timestamp" value="2017-01-09T11:29:28" />
+		</event>
 	</trace>
 	<trace>
 		<string key="concept:name" value="patient 68" />
@@ -2579,6 +3298,16 @@
 			<string key="concept:name" value=" Final consult" />
 			<string key="org:resource" value=" Dr. Ben" />
 			<date key="time:timestamp" value="2017-04-13T10:23:00" />
+		</event>
+		<event>
+			<string key="concept:name" value="ECG" />
+			<string key="org:resource" value=" Dr. Anna" />
+			<date key="time:timestamp" value="2017-01-09T09:29:28" />
+		</event>
+<event>
+			<string key="concept:name" value="Decition for hear surhery" />
+			<string key="org:resource" value=" Dr. Anna" />
+			<date key="time:timestamp" value="2017-01-09T11:29:28" />
 		</event>
 	</trace>
 	<trace>
@@ -2618,6 +3347,16 @@
 			<string key="org:resource" value=" Dr. Ben" />
 			<date key="time:timestamp" value="2017-04-17T12:47:07" />
 		</event>
+		<event>
+			<string key="concept:name" value="ECG" />
+			<string key="org:resource" value=" Dr. Anna" />
+			<date key="time:timestamp" value="2017-01-09T09:29:28" />
+		</event>
+<event>
+			<string key="concept:name" value="Decition for hear surhery" />
+			<string key="org:resource" value=" Dr. Anna" />
+			<date key="time:timestamp" value="2017-01-09T11:29:28" />
+		</event>
 	</trace>
 	<trace>
 		<string key="concept:name" value="patient 70" />
@@ -2655,6 +3394,16 @@
 			<string key="concept:name" value=" Final consult" />
 			<string key="org:resource" value=" Dr. Ben" />
 			<date key="time:timestamp" value="2017-04-18T09:31:56" />
+		</event>
+		<event>
+			<string key="concept:name" value="ECG" />
+			<string key="org:resource" value=" Dr. Anna" />
+			<date key="time:timestamp" value="2017-01-09T09:29:28" />
+		</event>
+<event>
+			<string key="concept:name" value="Decition for hear surhery" />
+			<string key="org:resource" value=" Dr. Anna" />
+			<date key="time:timestamp" value="2017-01-09T11:29:28" />
 		</event>
 	</trace>
 	<trace>
@@ -2694,6 +3443,16 @@
 			<string key="org:resource" value=" Dr. Anna" />
 			<date key="time:timestamp" value="2017-04-20T15:26:01" />
 		</event>
+		<event>
+			<string key="concept:name" value="ECG" />
+			<string key="org:resource" value=" Dr. Anna" />
+			<date key="time:timestamp" value="2017-01-09T09:29:28" />
+		</event>
+<event>
+			<string key="concept:name" value="Decition for hear surhery" />
+			<string key="org:resource" value=" Dr. Anna" />
+			<date key="time:timestamp" value="2017-01-09T11:29:28" />
+		</event>
 	</trace>
 	<trace>
 		<string key="concept:name" value="patient 72" />
@@ -2731,6 +3490,16 @@
 			<string key="concept:name" value=" Final consult" />
 			<string key="org:resource" value=" Dr. Anna" />
 			<date key="time:timestamp" value="2017-04-26T09:11:57" />
+		</event>
+		<event>
+			<string key="concept:name" value="ECG" />
+			<string key="org:resource" value=" Dr. Anna" />
+			<date key="time:timestamp" value="2017-01-09T09:29:28" />
+		</event>
+<event>
+			<string key="concept:name" value="Decition for hear surhery" />
+			<string key="org:resource" value=" Dr. Anna" />
+			<date key="time:timestamp" value="2017-01-09T11:29:28" />
 		</event>
 	</trace>
 	<trace>
@@ -2770,6 +3539,16 @@
 			<string key="org:resource" value=" Dr. Ben" />
 			<date key="time:timestamp" value="2017-04-24T13:17:24" />
 		</event>
+		<event>
+			<string key="concept:name" value="ECG" />
+			<string key="org:resource" value=" Dr. Anna" />
+			<date key="time:timestamp" value="2017-01-09T09:29:28" />
+		</event>
+<event>
+			<string key="concept:name" value="Decition for hear surhery" />
+			<string key="org:resource" value=" Dr. Anna" />
+			<date key="time:timestamp" value="2017-01-09T11:29:28" />
+		</event>
 	</trace>
 	<trace>
 		<string key="concept:name" value="patient 74" />
@@ -2807,6 +3586,16 @@
 			<string key="concept:name" value=" Final consult" />
 			<string key="org:resource" value=" Dr. Anna" />
 			<date key="time:timestamp" value="2017-04-26T08:50:55" />
+		</event>
+		<event>
+			<string key="concept:name" value="ECG" />
+			<string key="org:resource" value=" Dr. Anna" />
+			<date key="time:timestamp" value="2017-01-09T09:29:28" />
+		</event>
+<event>
+			<string key="concept:name" value="Decition for hear surhery" />
+			<string key="org:resource" value=" Dr. Anna" />
+			<date key="time:timestamp" value="2017-01-09T11:29:28" />
 		</event>
 	</trace>
 	<trace>
@@ -2846,6 +3635,16 @@
 			<string key="org:resource" value=" Dr. Anna" />
 			<date key="time:timestamp" value="2017-04-25T15:04:02" />
 		</event>
+		<event>
+			<string key="concept:name" value="ECG" />
+			<string key="org:resource" value=" Dr. Anna" />
+			<date key="time:timestamp" value="2017-01-09T09:29:28" />
+		</event>
+<event>
+			<string key="concept:name" value="Decition for hear surhery" />
+			<string key="org:resource" value=" Dr. Anna" />
+			<date key="time:timestamp" value="2017-01-09T11:29:28" />
+		</event>
 	</trace>
 	<trace>
 		<string key="concept:name" value="patient 76" />
@@ -2883,6 +3682,16 @@
 			<string key="concept:name" value=" Final consult" />
 			<string key="org:resource" value=" Dr. Ben" />
 			<date key="time:timestamp" value="2017-04-20T12:26:47" />
+		</event>
+		<event>
+			<string key="concept:name" value="ECG" />
+			<string key="org:resource" value=" Dr. Anna" />
+			<date key="time:timestamp" value="2017-01-09T09:29:28" />
+		</event>
+<event>
+			<string key="concept:name" value="Decition for hear surhery" />
+			<string key="org:resource" value=" Dr. Anna" />
+			<date key="time:timestamp" value="2017-01-09T11:29:28" />
 		</event>
 	</trace>
 	<trace>
@@ -2922,6 +3731,16 @@
 			<string key="org:resource" value=" Dr. Anna" />
 			<date key="time:timestamp" value="2017-04-28T14:55:23" />
 		</event>
+		<event>
+			<string key="concept:name" value="ECG" />
+			<string key="org:resource" value=" Dr. Anna" />
+			<date key="time:timestamp" value="2017-01-09T09:29:28" />
+		</event>
+<event>
+			<string key="concept:name" value="Decition for hear surhery" />
+			<string key="org:resource" value=" Dr. Anna" />
+			<date key="time:timestamp" value="2017-01-09T11:29:28" />
+		</event>
 	</trace>
 	<trace>
 		<string key="concept:name" value="patient 78" />
@@ -2959,6 +3778,16 @@
 			<string key="concept:name" value=" Final consult" />
 			<string key="org:resource" value=" Dr. Anna" />
 			<date key="time:timestamp" value="2017-05-05T09:45:51" />
+		</event>
+		<event>
+			<string key="concept:name" value="ECG" />
+			<string key="org:resource" value=" Dr. Anna" />
+			<date key="time:timestamp" value="2017-01-09T09:29:28" />
+		</event>
+<event>
+			<string key="concept:name" value="Decition for hear surhery" />
+			<string key="org:resource" value=" Dr. Anna" />
+			<date key="time:timestamp" value="2017-01-09T11:29:28" />
 		</event>
 	</trace>
 	<trace>
@@ -2998,6 +3827,16 @@
 			<string key="org:resource" value=" Dr. Ben" />
 			<date key="time:timestamp" value="2017-05-03T10:49:42" />
 		</event>
+		<event>
+			<string key="concept:name" value="ECG" />
+			<string key="org:resource" value=" Dr. Anna" />
+			<date key="time:timestamp" value="2017-01-09T09:29:28" />
+		</event>
+<event>
+			<string key="concept:name" value="Decition for hear surhery" />
+			<string key="org:resource" value=" Dr. Anna" />
+			<date key="time:timestamp" value="2017-01-09T11:29:28" />
+		</event>
 	</trace>
 	<trace>
 		<string key="concept:name" value="patient 80" />
@@ -3035,6 +3874,16 @@
 			<string key="concept:name" value=" Final consult" />
 			<string key="org:resource" value=" Dr. Anna" />
 			<date key="time:timestamp" value="2017-05-01T13:19:23" />
+		</event>
+		<event>
+			<string key="concept:name" value="ECG" />
+			<string key="org:resource" value=" Dr. Anna" />
+			<date key="time:timestamp" value="2017-01-09T09:29:28" />
+		</event>
+<event>
+			<string key="concept:name" value="Decition for hear surhery" />
+			<string key="org:resource" value=" Dr. Anna" />
+			<date key="time:timestamp" value="2017-01-09T11:29:28" />
 		</event>
 	</trace>
 	<trace>
@@ -3074,6 +3923,16 @@
 			<string key="org:resource" value=" Dr. Ben" />
 			<date key="time:timestamp" value="2017-05-01T13:37:20" />
 		</event>
+		<event>
+			<string key="concept:name" value="ECG" />
+			<string key="org:resource" value=" Dr. Anna" />
+			<date key="time:timestamp" value="2017-01-09T09:29:28" />
+		</event>
+<event>
+			<string key="concept:name" value="Decition for hear surhery" />
+			<string key="org:resource" value=" Dr. Anna" />
+			<date key="time:timestamp" value="2017-01-09T11:29:28" />
+		</event>
 	</trace>
 	<trace>
 		<string key="concept:name" value="patient 82" />
@@ -3111,6 +3970,16 @@
 			<string key="concept:name" value=" Final consult" />
 			<string key="org:resource" value=" Dr. Ben" />
 			<date key="time:timestamp" value="2017-05-02T15:28:53" />
+		</event>
+		<event>
+			<string key="concept:name" value="ECG" />
+			<string key="org:resource" value=" Dr. Anna" />
+			<date key="time:timestamp" value="2017-01-09T09:29:28" />
+		</event>
+<event>
+			<string key="concept:name" value="Decition for hear surhery" />
+			<string key="org:resource" value=" Dr. Anna" />
+			<date key="time:timestamp" value="2017-01-09T11:29:28" />
 		</event>
 	</trace>
 	<trace>
@@ -3150,6 +4019,16 @@
 			<string key="org:resource" value=" Dr. Anna" />
 			<date key="time:timestamp" value="2017-05-12T13:24:42" />
 		</event>
+		<event>
+			<string key="concept:name" value="ECG" />
+			<string key="org:resource" value=" Dr. Anna" />
+			<date key="time:timestamp" value="2017-01-09T09:29:28" />
+		</event>
+<event>
+			<string key="concept:name" value="Decition for hear surhery" />
+			<string key="org:resource" value=" Dr. Anna" />
+			<date key="time:timestamp" value="2017-01-09T11:29:28" />
+		</event>
 	</trace>
 	<trace>
 		<string key="concept:name" value="patient 84" />
@@ -3187,6 +4066,16 @@
 			<string key="concept:name" value=" Final consult" />
 			<string key="org:resource" value=" Dr. Anna" />
 			<date key="time:timestamp" value="2017-05-09T16:37:13" />
+		</event>
+		<event>
+			<string key="concept:name" value="ECG" />
+			<string key="org:resource" value=" Dr. Anna" />
+			<date key="time:timestamp" value="2017-01-09T09:29:28" />
+		</event>
+<event>
+			<string key="concept:name" value="Decition for hear surhery" />
+			<string key="org:resource" value=" Dr. Anna" />
+			<date key="time:timestamp" value="2017-01-09T11:29:28" />
 		</event>
 	</trace>
 	<trace>
@@ -3226,6 +4115,16 @@
 			<string key="org:resource" value=" Dr. Ben" />
 			<date key="time:timestamp" value="2017-05-10T12:07:20" />
 		</event>
+		<event>
+			<string key="concept:name" value="ECG" />
+			<string key="org:resource" value=" Dr. Anna" />
+			<date key="time:timestamp" value="2017-01-09T09:29:28" />
+		</event>
+<event>
+			<string key="concept:name" value="Decition for hear surhery" />
+			<string key="org:resource" value=" Dr. Anna" />
+			<date key="time:timestamp" value="2017-01-09T11:29:28" />
+		</event>
 	</trace>
 	<trace>
 		<string key="concept:name" value="patient 86" />
@@ -3263,6 +4162,16 @@
 			<string key="concept:name" value=" Final consult" />
 			<string key="org:resource" value=" Dr. Anna" />
 			<date key="time:timestamp" value="2017-05-12T10:35:21" />
+		</event>
+		<event>
+			<string key="concept:name" value="ECG" />
+			<string key="org:resource" value=" Dr. Anna" />
+			<date key="time:timestamp" value="2017-01-09T09:29:28" />
+		</event>
+<event>
+			<string key="concept:name" value="Decition for hear surhery" />
+			<string key="org:resource" value=" Dr. Anna" />
+			<date key="time:timestamp" value="2017-01-09T11:29:28" />
 		</event>
 	</trace>
 	<trace>
@@ -3302,6 +4211,16 @@
 			<string key="org:resource" value=" Dr. Ben" />
 			<date key="time:timestamp" value="2017-05-19T16:11:27" />
 		</event>
+		<event>
+			<string key="concept:name" value="ECG" />
+			<string key="org:resource" value=" Dr. Anna" />
+			<date key="time:timestamp" value="2017-01-09T09:29:28" />
+		</event>
+<event>
+			<string key="concept:name" value="Decition for hear surhery" />
+			<string key="org:resource" value=" Dr. Anna" />
+			<date key="time:timestamp" value="2017-01-09T11:29:28" />
+		</event>
 	</trace>
 	<trace>
 		<string key="concept:name" value="patient 88" />
@@ -3339,6 +4258,16 @@
 			<string key="concept:name" value=" Final consult" />
 			<string key="org:resource" value=" Dr. Anna" />
 			<date key="time:timestamp" value="2017-05-10T12:48:31" />
+		</event>
+		<event>
+			<string key="concept:name" value="ECG" />
+			<string key="org:resource" value=" Dr. Anna" />
+			<date key="time:timestamp" value="2017-01-09T09:29:28" />
+		</event>
+<event>
+			<string key="concept:name" value="Decition for hear surhery" />
+			<string key="org:resource" value=" Dr. Anna" />
+			<date key="time:timestamp" value="2017-01-09T11:29:28" />
 		</event>
 	</trace>
 	<trace>
@@ -3378,6 +4307,16 @@
 			<string key="org:resource" value=" Dr. Anna" />
 			<date key="time:timestamp" value="2017-05-15T14:07:55" />
 		</event>
+		<event>
+			<string key="concept:name" value="ECG" />
+			<string key="org:resource" value=" Dr. Anna" />
+			<date key="time:timestamp" value="2017-01-09T09:29:28" />
+		</event>
+<event>
+			<string key="concept:name" value="Decition for hear surhery" />
+			<string key="org:resource" value=" Dr. Anna" />
+			<date key="time:timestamp" value="2017-01-09T11:29:28" />
+		</event>
 	</trace>
 	<trace>
 		<string key="concept:name" value="patient 90" />
@@ -3415,6 +4354,16 @@
 			<string key="concept:name" value=" Final consult" />
 			<string key="org:resource" value=" Dr. Ben" />
 			<date key="time:timestamp" value="2017-05-11T16:34:28" />
+		</event>
+		<event>
+			<string key="concept:name" value="ECG" />
+			<string key="org:resource" value=" Dr. Anna" />
+			<date key="time:timestamp" value="2017-01-09T09:29:28" />
+		</event>
+<event>
+			<string key="concept:name" value="Decition for hear surhery" />
+			<string key="org:resource" value=" Dr. Anna" />
+			<date key="time:timestamp" value="2017-01-09T11:29:28" />
 		</event>
 	</trace>
 	<trace>
@@ -3454,6 +4403,16 @@
 			<string key="org:resource" value=" Dr. Ben" />
 			<date key="time:timestamp" value="2017-05-19T14:52:21" />
 		</event>
+		<event>
+			<string key="concept:name" value="ECG" />
+			<string key="org:resource" value=" Dr. Anna" />
+			<date key="time:timestamp" value="2017-01-09T09:29:28" />
+		</event>
+<event>
+			<string key="concept:name" value="Decition for hear surhery" />
+			<string key="org:resource" value=" Dr. Anna" />
+			<date key="time:timestamp" value="2017-01-09T11:29:28" />
+		</event>
 	</trace>
 	<trace>
 		<string key="concept:name" value="patient 92" />
@@ -3491,6 +4450,16 @@
 			<string key="concept:name" value=" Final consult" />
 			<string key="org:resource" value=" Dr. Anna" />
 			<date key="time:timestamp" value="2017-05-22T15:37:59" />
+		</event>
+		<event>
+			<string key="concept:name" value="ECG" />
+			<string key="org:resource" value=" Dr. Anna" />
+			<date key="time:timestamp" value="2017-01-09T09:29:28" />
+		</event>
+<event>
+			<string key="concept:name" value="Decition for hear surhery" />
+			<string key="org:resource" value=" Dr. Anna" />
+			<date key="time:timestamp" value="2017-01-09T11:29:28" />
 		</event>
 	</trace>
 	<trace>
@@ -3530,6 +4499,16 @@
 			<string key="org:resource" value=" Dr. Ben" />
 			<date key="time:timestamp" value="2017-05-22T09:33:48" />
 		</event>
+		<event>
+			<string key="concept:name" value="ECG" />
+			<string key="org:resource" value=" Dr. Anna" />
+			<date key="time:timestamp" value="2017-01-09T09:29:28" />
+		</event>
+<event>
+			<string key="concept:name" value="Decition for hear surhery" />
+			<string key="org:resource" value=" Dr. Anna" />
+			<date key="time:timestamp" value="2017-01-09T11:29:28" />
+		</event>
 	</trace>
 	<trace>
 		<string key="concept:name" value="patient 94" />
@@ -3568,6 +4547,16 @@
 			<string key="org:resource" value=" Dr. Ben" />
 			<date key="time:timestamp" value="2017-05-29T09:11:38" />
 		</event>
+		<event>
+			<string key="concept:name" value="ECG" />
+			<string key="org:resource" value=" Dr. Anna" />
+			<date key="time:timestamp" value="2017-01-09T09:29:28" />
+		</event>
+<event>
+			<string key="concept:name" value="Decition for hear surhery" />
+			<string key="org:resource" value=" Dr. Anna" />
+			<date key="time:timestamp" value="2017-01-09T11:29:28" />
+		</event>
 	</trace>
 	<trace>
 		<string key="concept:name" value="patient 95" />
@@ -3600,6 +4589,16 @@
 			<string key="concept:name" value=" Final consult" />
 			<string key="org:resource" value=" Dr. Anna" />
 			<date key="time:timestamp" value="2017-05-26T10:19:34" />
+		</event>
+		<event>
+			<string key="concept:name" value="ECG" />
+			<string key="org:resource" value=" Dr. Anna" />
+			<date key="time:timestamp" value="2017-01-09T09:29:28" />
+		</event>
+<event>
+			<string key="concept:name" value="Decition for hear surhery" />
+			<string key="org:resource" value=" Dr. Anna" />
+			<date key="time:timestamp" value="2017-01-09T11:29:28" />
 		</event>
 	</trace>
 	<trace>
@@ -3639,6 +4638,16 @@
 			<string key="org:resource" value=" Dr. Anna" />
 			<date key="time:timestamp" value="2017-05-24T16:38:21" />
 		</event>
+		<event>
+			<string key="concept:name" value="ECG" />
+			<string key="org:resource" value=" Dr. Anna" />
+			<date key="time:timestamp" value="2017-01-09T09:29:28" />
+		</event>
+<event>
+			<string key="concept:name" value="Decition for hear surhery" />
+			<string key="org:resource" value=" Dr. Anna" />
+			<date key="time:timestamp" value="2017-01-09T11:29:28" />
+		</event>
 	</trace>
 	<trace>
 		<string key="concept:name" value="patient 97" />
@@ -3676,6 +4685,16 @@
 			<string key="concept:name" value=" Final consult" />
 			<string key="org:resource" value=" Dr. Anna" />
 			<date key="time:timestamp" value="2017-05-22T14:37:56" />
+		</event>
+		<event>
+			<string key="concept:name" value="ECG" />
+			<string key="org:resource" value=" Dr. Anna" />
+			<date key="time:timestamp" value="2017-01-09T09:29:28" />
+		</event>
+<event>
+			<string key="concept:name" value="Decition for hear surhery" />
+			<string key="org:resource" value=" Dr. Anna" />
+			<date key="time:timestamp" value="2017-01-09T11:29:28" />
 		</event>
 	</trace>
 	<trace>
@@ -3715,6 +4734,16 @@
 			<string key="org:resource" value=" Dr. Ben" />
 			<date key="time:timestamp" value="2017-05-31T14:16:13" />
 		</event>
+		<event>
+			<string key="concept:name" value="ECG" />
+			<string key="org:resource" value=" Dr. Anna" />
+			<date key="time:timestamp" value="2017-01-09T09:29:28" />
+		</event>
+<event>
+			<string key="concept:name" value="Decition for hear surhery" />
+			<string key="org:resource" value=" Dr. Anna" />
+			<date key="time:timestamp" value="2017-01-09T11:29:28" />
+		</event>
 	</trace>
 	<trace>
 		<string key="concept:name" value="patient 99" />
@@ -3753,6 +4782,16 @@
 			<string key="org:resource" value=" Dr. Anna" />
 			<date key="time:timestamp" value="2017-05-31T12:46:43" />
 		</event>
+		<event>
+			<string key="concept:name" value="ECG" />
+			<string key="org:resource" value=" Dr. Anna" />
+			<date key="time:timestamp" value="2017-01-09T09:29:28" />
+		</event>
+<event>
+			<string key="concept:name" value="Decition for hear surhery" />
+			<string key="org:resource" value=" Dr. Anna" />
+			<date key="time:timestamp" value="2017-01-09T11:29:28" />
+		</event>
 	</trace>
 	<trace>
 		<string key="concept:name" value="patient 100" />
@@ -3790,6 +4829,16 @@
 			<string key="concept:name" value=" Final consult" />
 			<string key="org:resource" value=" Dr. Anna" />
 			<date key="time:timestamp" value="2017-05-31T12:46:43" />
+		</event>
+		<event>
+			<string key="concept:name" value="ECG" />
+			<string key="org:resource" value=" Dr. Anna" />
+			<date key="time:timestamp" value="2017-01-09T09:29:28" />
+		</event>
+<event>
+			<string key="concept:name" value="Decition for hear surhery" />
+			<string key="org:resource" value=" Dr. Anna" />
+			<date key="time:timestamp" value="2017-01-09T11:29:28" />
 		</event>
 	</trace>
 </log>
